@@ -1,6 +1,6 @@
 # FreeCAD Beginner's Handbook
 
-A handbook for FreeCAD beginners, that teaches makers and engineers from 3D modelling theory to ready-to-3d-print assemblies. The book was released in collaboration with Prusa Research as the main sponsor.
+A handbook for FreeCAD beginners, that teaches makers and engineers from 3D modelling theory to ready-to-3d-print assemblies. This handbook was released in collaboration with Prusa Research as the main sponsor.
 
 
 Download all files to follow the instructions from the book.
