@@ -21,4 +21,4 @@ Download all files to follow the instructions from the book.
 - Japan: https://www.amazon.co.jp/dp/B0G9HXYYGX
 
 ## Book cover
-<img src="freecad-beginners-handbook-book-cover.jpg" alt="FreeCAD Beginner's Handbook cover" width: "400px"/>
+<img src="freecad-beginners-handbook-book-cover.jpg" alt="FreeCAD Beginner's Handbook cover" width="400px"/>
