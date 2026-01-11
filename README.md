@@ -1,5 +1,8 @@
 # FreeCAD Beginner's Handbook
 
+A handbook for FreeCAD beginners, that teaches makers and engineers from 3D modelling theory to ready-to-3d-print assemblies
+
+
 Download all files to follow the instructions from the book.
 
 Get the book:
