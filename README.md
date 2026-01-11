@@ -5,7 +5,7 @@ A handbook for FreeCAD beginners, that teaches makers and engineers from 3D mode
 
 Download all files to follow the instructions from the book.
 
-## Get the FreeCAD Beginner's Handbook:
+## Get the FreeCAD Beginner's Handbook (English Edition):
 - USA: https://www.amazon.com/dp/B0G9HXYYGX
 - Germany: https://www.amazon.de/dp/B0G9HXYYGX
 - United Kingdom: https://www.amazon.co.uk/dp/B0G9HXYYGX
