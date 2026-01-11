@@ -24,5 +24,5 @@ Download all files to follow the instructions from the book.
 <img
   src="freecad-beginners-handbook-book-cover.jpg"
   alt="FreeCAD Beginner's Handbook cover"
-  style="max-width: 600px; width: 100%; height: auto;"
+  style="max-width: 400px; height: auto;"
 />
