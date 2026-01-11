@@ -22,3 +22,14 @@ Download all files to follow the instructions from the book.
 
 ## Book cover
 <img src="freecad-beginners-handbook-book-cover.jpg" alt="FreeCAD Beginner's Handbook cover" width="400px"/>
+
+## Table of contents
+1. Working with 3D Shapes on Paper
+2. Getting Started with Solid Modeling Theory
+3. Quickstarting FreeCAD with your first 3D CAD Model
+4. Creating Sketches using the Sketcher Workbench
+5. Creating Parts using the Part Design Workbench
+6. Creating Assemblies using the A2Plus Workbench
+7. Preparing your FreeCAD Designs for 3D printing
+8. Sharing your FreeCAD Designs in the Maker Community
+9. Building the Mars Rover in FreeCAD from Scratch
