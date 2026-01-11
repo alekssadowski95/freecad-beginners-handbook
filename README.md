@@ -3,7 +3,7 @@
 A handbook for FreeCAD beginners, that teaches makers and engineers from 3D modelling theory to ready-to-3d-print assemblies. The 1st Edition of the FreeCAD Beginner's Handbook was released in collaboration with Prusa Research as the main sponsor.
 
 
-Download all files to follow the instructions from the book.
+Download all files to follow the instructions from the book: https://github.com/alekssadowski95/freecad-beginners-handbook/archive/refs/tags/1.0.zip
 
 ## Get the FreeCAD Beginner's Handbook (English Edition):
 - USA: https://www.amazon.com/dp/B0G9HXYYGX
