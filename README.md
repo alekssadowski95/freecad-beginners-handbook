@@ -9,6 +9,7 @@ Download all files to follow the instructions from the book: https://github.com/
 - USA: https://www.amazon.com/dp/B0G9HXYYGX
 - Germany: https://www.amazon.de/dp/B0G9HXYYGX
 - United Kingdom: https://www.amazon.co.uk/dp/B0G9HXYYGX
+- India (ebook): https://www.amazon.in/dp/B0GX2YQZW4
 - Poland: https://www.amazon.pl/dp/B0G9HXYYGX
 - Canada: https://www.amazon.ca/dp/B0G9HXYYGX
 - France: https://www.amazon.fr/dp/B0G9HXYYGX
